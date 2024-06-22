@@ -1,11 +1,19 @@
-/* styles.css */
 body {
   font-family: "Helvetica Neue", sans-serif;
   font-weight: 300;
   text-align: center;
 }
-
 h1 {
   font-weight: 400
 }
 
+#correct {
+  display: none
+}
+
+#guesses {
+    display: block;
+    font-family: "Helvetica Neue", sans-serif;
+    font-weight: 300;
+    text-align: center;
+}
